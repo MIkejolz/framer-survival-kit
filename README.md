@@ -1,5 +1,14 @@
 # framer-survival-kit
 
-This is the:
+Create a prop override:
 
-`First commit`
+`
+# Create a function that exports the prop override
+
+export function myProps(): Override {
+    return {
+        background: "red"
+    }
+}
+
+`
