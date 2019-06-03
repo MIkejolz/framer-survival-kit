@@ -2,7 +2,7 @@
 
 Create a prop override:
 
-`
+```
 # Create a function that exports the prop override
 
 export function myProps(): Override {
@@ -11,4 +11,4 @@ export function myProps(): Override {
     }
 }
 
-`
+```
