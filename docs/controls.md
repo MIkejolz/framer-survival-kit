@@ -69,3 +69,5 @@ export function Control_code_comp(props) {
     return <Frame>{props.text}</Frame>
 }
 ```
+
+[Back to home page](../README.md)

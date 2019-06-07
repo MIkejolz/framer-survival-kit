@@ -18,3 +18,5 @@ Import user into the document:
 ```JavaScript
 import { user } from "./data.json";
 ```
+
+[Back to home page](../README.md)
