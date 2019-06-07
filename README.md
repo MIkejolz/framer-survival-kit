@@ -1,14 +1,8 @@
 # framer-survival-kit
 
-Create a prop override:
+On going Framer start survival kit. This is still work in progress.
 
-```JavaScript
-# Create a function that exports the prop override
-
-export function myProps(): Override {
-    return {
-        background: "red"
-    }
-}
-
-```
+## Table of content
+[a relative link](docs/import.md)
+[a relative link](controls.md)
+[a relative link](overrides.md)
